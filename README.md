@@ -1,99 +1,161 @@
 <div align="center">
 
-# 👋 Hi, I'm Aarya Shah
+# Aarya Shah
 
-### CSE Student • AI/ML • Computer Vision • Software Development
+### AI/ML • Computer Vision • Software Engineering
 
-I build practical AI systems, experiment with computer vision, and enjoy turning ideas into working products.
+**Building practical AI systems, experimenting with emerging technology, and turning ideas into working products.**
 
-[![GitHub](https://img.shields.io/badge/GitHub-AaryaShah01-181717?style=flat&logo=github)](https://github.com/AaryaShah01)
+<br>
+
+<a href="https://github.com/AaryaShah01">
+  <img src="https://img.shields.io/badge/GitHub-AaryaShah01-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+<a href="https://github.com/AaryaShah01?tab=repositories">
+  <img src="https://img.shields.io/badge/Projects-Explore-0D1117?style=for-the-badge&logo=github" alt="Projects">
+</a>
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-- 🎓 Computer Science Engineering student at **MIT World Peace University, Pune**
-- 🤖 Interested in **AI/ML, Computer Vision and intelligent systems**
-- 🛠️ I like building projects that connect **ML models with real applications**
-- 🧪 Currently exploring **real-time AI, automation and spatial computing**
-- 🚀 Focused on becoming a stronger **software + AI engineer**
+🎓 **Computer Science Engineering student** at **MIT World Peace University, Pune**
+
+🤖 Focused on **AI/ML, Computer Vision, real-time systems, and software engineering**
+
+🧠 Interested in taking models beyond notebooks and integrating them into **usable products**
+
+🚀 Currently exploring **AI automation, spatial computing, edge AI, and intelligent applications**
 
 ---
 
-## 🔥 Featured Projects
+## 🚀 Featured Work
 
-### 🛡️ [WiFi-Guard](https://github.com/AaryaShah01/wifi-guard)
+<table>
+<tr>
+<td width="50%" valign="top">
 
-Privacy-first human activity and fall detection using **WiFi CSI + PyTorch**.
+### 🛡️ WiFi-Guard
 
-**FastAPI · PyTorch · WebSockets · Computer Vision/Signal Processing · Telegram · Docker**
+**Privacy-first human activity and fall detection using WiFi CSI.**
+
+A real-time sensing system combining lightweight deep learning, FastAPI, WebSockets, a live dashboard, and caregiver alerts.
+
+**Stack**
+
+PyTorch · FastAPI · WebSockets · Docker · Telegram
+
+<br>
+
+<a href="https://github.com/AaryaShah01/wifi-guard">View Repository →</a>
+
+</td>
+<td width="50%" valign="top">
 
 ### ⚡ InstaFlow
 
-Instagram comment-to-DM automation platform built around **Next.js, Supabase and the Meta Graph API**.
+**Instagram comment → automated DM platform.**
 
-**Next.js · React · TypeScript · Supabase · PostgreSQL · Meta Graph API**
+A full-stack automation system using Meta webhooks, keyword matching, OAuth, Supabase, analytics, and the Meta Graph API.
 
-> More projects will be added as they are polished and made public.
+**Stack**
+
+Next.js · React · TypeScript · Supabase · PostgreSQL
+
+<br>
+
+<a href="https://github.com/AaryaShah01/insta-auto-dm-mvp">View Repository →</a>
+
+</td>
+</tr>
+</table>
+
+> 🔨 **More projects coming soon** — focused on AI, computer vision, automation, and spatial computing.
 
 ---
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
 ### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=postgresql&logoColor=white)
+<p>
+<img src="https://skillicons.dev/icons?i=python,cpp,c" alt="Languages">
+</p>
 
-### AI / ML
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat&logo=matplotlib&logoColor=white)
+**SQL** · **C++** · **C**
 
-### Development & Data
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+### AI / Machine Learning
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,numpy,pandas" alt="AI ML">
+</p>
 
-### Other
-**YOLOv8 · MediaPipe · Unity · C# · XR Interaction Toolkit · Arduino · Tinkercad · Docker · Redis**
+### Development & Infrastructure
+<p>
+<img src="https://skillicons.dev/icons?i=react,postgres,mysql,git,github,linux,docker,redis" alt="Development">
+</p>
+
+### Computer Vision • XR • Hardware
+
+YOLOv8 · MediaPipe · Unity · C# · XR Interaction Toolkit · Arduino · Tinkercad
 
 ---
 
-## 📊 GitHub Stats
+## 📈 GitHub
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AaryaShah01&show_icons=true&hide_border=true&rank_icon=github" height="165" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaShah01&layout=compact&hide_border=true" height="165" />
+<img src="https://github-readme-stats.vercel.app/api?username=AaryaShah01&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" height="170" alt="Aarya's GitHub stats">
+&nbsp;&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AaryaShah01&layout=compact&hide_border=true&theme=transparent" height="170" alt="Top languages">
+
+<br><br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=AaryaShah01&hide_border=true&theme=transparent" height="170" alt="GitHub streak">
 
 </div>
 
 ---
 
-## 🌱 Currently Exploring
+## 🔭 Currently Exploring
 
-- Real-time AI inference
-- Computer Vision
-- AI-powered automation
-- Spatial computing / XR
-- Edge AI and efficient models
+<table>
+<tr>
+<td>⚡ Real-time AI inference</td>
+<td>👁️ Computer Vision</td>
+</tr>
+<tr>
+<td>🤖 AI-powered automation</td>
+<td>🥽 Spatial Computing / XR</td>
+</tr>
+<tr>
+<td>🧩 Edge AI & efficient models</td>
+<td>🛠️ Production-ready AI systems</td>
+</tr>
+</table>
 
 ---
 
-## 📫 Connect
+## 🎯 What I Like Building
+
+> **Ideas → Experiments → Systems → Products**
+
+I enjoy projects where software meets the real world — whether that's sensing people through WiFi, automating creator workflows, understanding visual input, or experimenting with spatial interfaces.
+
+---
 
 <div align="center">
 
-**Let's build something useful.**
+### Let's build something useful.
 
-[GitHub](https://github.com/AaryaShah01)
+<br>
+
+<a href="https://github.com/AaryaShah01">
+<img src="https://img.shields.io/badge/GitHub-AaryaShah01-181717?style=for-the-badge&logo=github" alt="GitHub">
+</a>
+
+<br><br>
+
+<sub>© Aarya Shah</sub>
 
 </div>
